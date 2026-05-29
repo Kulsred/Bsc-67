@@ -1,4 +1,4 @@
-# FPJS-V67 — Brawl Stars V67 server (C#)
+# BSC#V67 — Brawl Stars V67 server (C#)
 
 Brawl Stars V67 server, rewritten in C# from Node.js.
 до до братан
